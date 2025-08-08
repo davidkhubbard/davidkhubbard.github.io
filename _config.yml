@@ -7,7 +7,9 @@ first_name: David
 middle_name: ""
 last_name: Hubbard
 contact_note: >
+  ""
 description: >
+  ""
 footer_text: Email: david [dot] hubbard [at] warwick [dot] ac [dot] uk
 url: https://davidkhubbard.github.io/ # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/. Leave blank for root
