@@ -1,0 +1,51 @@
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0;
+}
+
+/* Fixed background image covering the viewport */
+.background-wrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-image: url('/assets/img/background_picture.jpg');
+  background-attachment: fixed;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index: -1;
+  pointer-events: none;
+}
+
+/* Central content area with dark mode support */
+.container {
+  background-color: #212529; /* Dark background for content */
+  position: relative;
+  z-index: 1; /* Ensure content is above the background */
+  flex: 1 0 auto;
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Footer styling */
+footer {
+  position: relative;
+  z-index: 2; /* Ensure footer is above the content */
+  flex-shrink: 0;
+  background-color: #121212; /* Dark background for footer */
+  color: #ffffff; /* Light text for footer */
+  padding: 10px;
+  text-align: center;
+}
+
+/* Fix following issues:
+- A strip of the container covers the footer.
+- The header is not compiling properly and covers the title of each page.
+- The container colour does not match the dark mode background.
+- Extend width of the container more.
+
