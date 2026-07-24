@@ -24,4 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a fourth year PhD student in Algebraic Geometry. My research interests lie in Arithmetic Geometry, Unlikely Intersections and Derived Categories. Currently I am looking at Fourier-Mukai partners of cubic fourfolds in a given Hassett divisor, and the geometry of Calabi-Yau varieties over finite fields. My advisors are [Christian Böhning](https://warwick.ac.uk/fac/sci/maths/people/staff/boehning/) and [Gavin Brown](https://warwick.ac.uk/fac/sci/maths/people/staff/brown/). Before joining Warwick I completed an MMath at Trinity College, Oxford.
+I am currently a member of technical staff at Iceberg Quantum.
+
+Before that I was a PhD student in Algebraic and Arithmetic Geometry at the University of Warwick. My advisors were [Christian Böhning](https://warwick.ac.uk/fac/sci/maths/people/staff/boehning/) and [Gavin Brown](https://warwick.ac.uk/fac/sci/maths/people/staff/brown/). Before joining Warwick I completed an MMath at Trinity College, Oxford.
