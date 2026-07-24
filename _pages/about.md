@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>PhD Student</a> University of Warwick
+subtitle:
 
 profile:
   align: right
