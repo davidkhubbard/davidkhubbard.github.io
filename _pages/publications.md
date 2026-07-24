@@ -15,4 +15,8 @@ nav_order: 2
 
 ### Translations
 
+- PhD Thesis: [pdf](/assets/pdf/Warwick_Thesis.pdf)
+
+### Translations
+
 - Translation of: Raynaud, M., "Courbes sur une variété abélienne et points de torsion", Inventiones mathematicae 71 (1983): 207-233. [pdf](/assets/pdf/raynaud_courbes_translation.pdf)
