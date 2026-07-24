@@ -13,7 +13,7 @@ nav_order: 2
 {% bibliography %}
 </div>
 
-### Translations
+### Thesis
 
 - PhD Thesis: [pdf](/assets/pdf/Warwick_Thesis.pdf)
 
